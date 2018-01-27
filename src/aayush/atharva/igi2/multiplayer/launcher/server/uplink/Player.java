@@ -20,7 +20,7 @@ package aayush.atharva.igi2.multiplayer.launcher.server.uplink;
 
 /**
  *
- * @author Mario PL
+ * @author Aayush Atharva
  */
 public class Player {
 
